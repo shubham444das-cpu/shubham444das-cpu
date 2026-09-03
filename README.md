@@ -65,13 +65,13 @@ I enjoy transforming data into meaningful insights and building practical AI sol
 
 ## 🚀 Featured Projects
 
-### 🔬 Research Paper AI Assistant
+### 🔍 AI Market Research & Strategy Engine
 
-An AI-powered application for analyzing research papers using **NLP, semantic search, RAG, and LLM-based techniques**.
+An AI-powered application for transforming complex business questions into structured research insights using **AI agents, Generative AI, web research, and strategy-focused analysis**.
 
-**Tech:** Python • NLP • RAG • LLM • FAISS • LangChain • Streamlit
+**Tech:** Python • Streamlit • Generative AI • Google Gemini • AI Agents • Web Research • Data Analysis
 
-🔗 [View Repository](https://github.com/shubham444das-cpu/Research-Paper-AI-Assistant)
+🔗 [View Repository](https://github.com/shubham444das-cpu/McKinsey-AI-Market-Research-Strategy-Engine.git)
 
 ---
 
@@ -94,6 +94,16 @@ Interactive **Power BI dashboard** analyzing Airbnb operations and performance a
 🔗 [View Repository](https://github.com/shubham444das-cpu/Airbnb-Operations-Analytics-Dashboard)
 
 ---
+### 🔬 Research Paper AI Assistant
+
+An AI-powered application for analyzing research papers using **NLP, semantic search, RAG, and LLM-based techniques**.
+
+**Tech:** Python • NLP • RAG • LLM • FAISS • LangChain • Streamlit
+
+🔗 [View Repository](https://github.com/shubham444das-cpu/Research-Paper-AI-Assistant)
+
+---
+
 
 ## 🧠 Areas of Interest
 
