@@ -19,36 +19,6 @@ I enjoy transforming data into meaningful insights and building practical AI sol
 * 🚀 Interested in developing **end-to-end AI solutions**
 * 💡 Passionate about solving real-world problems using **data and AI**
 
----
-
-
-
----
-
-## 🎓 Education
-
-### AlmaBetter
-
-**Data Science with Generative AI**
-
-Key areas:
-
-* Python
-* SQL
-* Statistics
-* Exploratory Data Analysis
-* Machine Learning
-* Natural Language Processing
-* Generative AI
-* Large Language Models
-* Retrieval-Augmented Generation
-* AI Agents
-
-### 🎓 B.Sc. Chemistry
-
-Developed a strong foundation in **analytical thinking, scientific methodology, quantitative reasoning, and problem-solving**.
-
----
 
 ## 🛠️ Tech Stack
 
@@ -146,11 +116,6 @@ Interactive **Power BI dashboard** analyzing Airbnb operations and performance a
 *4 Years of Professional Experience*
 
 * Worked with major brands including **Uber, Hotstar, SonyLIV, Disney, and Maruti**.
-* Managed and analyzed digital campaign performance data.
-* Monitored key performance metrics and generated actionable insights.
-* Worked with cross-functional teams to solve campaign and reporting challenges.
-* Developed strong analytical, problem-solving, communication, and stakeholder-management skills.
-* Applying my business and analytical experience to **Data Science and Generative AI**.
 
 ### AlmaBetter
 
