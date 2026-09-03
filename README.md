@@ -119,7 +119,7 @@ Interactive **Power BI dashboard** analyzing Airbnb operations and performance a
 
 ### AlmaBetter
 
-**Data Science with Generative AI**
+**MS in Computer Science, Machine Learning and AI Engineering - Woolf University in collaboration with AlmaBetter**
 
 Key areas:
 
@@ -143,22 +143,6 @@ Developed a strong foundation in **analytical thinking, scientific methodology, 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubham444das-cpu&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham444das-cpu&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shubham444das-cpu&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 ## 🤝 Let's Connect
 
